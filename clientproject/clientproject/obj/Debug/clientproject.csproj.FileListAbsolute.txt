@@ -1,0 +1,10 @@
+C:\Users\btech\source\repos\clientproject\clientproject\bin\Debug\clientproject.exe.config
+C:\Users\btech\source\repos\clientproject\clientproject\bin\Debug\clientproject.exe
+C:\Users\btech\source\repos\clientproject\clientproject\bin\Debug\clientproject.pdb
+C:\Users\btech\source\repos\clientproject\clientproject\obj\Debug\clientproject.csproj.AssemblyReference.cache
+C:\Users\btech\source\repos\clientproject\clientproject\obj\Debug\clientproject.Form1.resources
+C:\Users\btech\source\repos\clientproject\clientproject\obj\Debug\clientproject.Properties.Resources.resources
+C:\Users\btech\source\repos\clientproject\clientproject\obj\Debug\clientproject.csproj.GenerateResource.cache
+C:\Users\btech\source\repos\clientproject\clientproject\obj\Debug\clientproject.csproj.CoreCompileInputs.cache
+C:\Users\btech\source\repos\clientproject\clientproject\obj\Debug\clientproject.exe
+C:\Users\btech\source\repos\clientproject\clientproject\obj\Debug\clientproject.pdb
