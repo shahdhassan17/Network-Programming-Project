@@ -1,0 +1,14 @@
+C:\Users\btech\source\repos\serverpractical\serverpractical\bin\Debug\net8.0\serverpractical.exe
+C:\Users\btech\source\repos\serverpractical\serverpractical\bin\Debug\net8.0\serverpractical.deps.json
+C:\Users\btech\source\repos\serverpractical\serverpractical\bin\Debug\net8.0\serverpractical.runtimeconfig.json
+C:\Users\btech\source\repos\serverpractical\serverpractical\bin\Debug\net8.0\serverpractical.dll
+C:\Users\btech\source\repos\serverpractical\serverpractical\bin\Debug\net8.0\serverpractical.pdb
+C:\Users\btech\source\repos\serverpractical\serverpractical\obj\Debug\net8.0\serverpractical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btech\source\repos\serverpractical\serverpractical\obj\Debug\net8.0\serverpractical.AssemblyInfoInputs.cache
+C:\Users\btech\source\repos\serverpractical\serverpractical\obj\Debug\net8.0\serverpractical.AssemblyInfo.cs
+C:\Users\btech\source\repos\serverpractical\serverpractical\obj\Debug\net8.0\serverpractical.csproj.CoreCompileInputs.cache
+C:\Users\btech\source\repos\serverpractical\serverpractical\obj\Debug\net8.0\serverpractical.dll
+C:\Users\btech\source\repos\serverpractical\serverpractical\obj\Debug\net8.0\refint\serverpractical.dll
+C:\Users\btech\source\repos\serverpractical\serverpractical\obj\Debug\net8.0\serverpractical.pdb
+C:\Users\btech\source\repos\serverpractical\serverpractical\obj\Debug\net8.0\serverpractical.genruntimeconfig.cache
+C:\Users\btech\source\repos\serverpractical\serverpractical\obj\Debug\net8.0\ref\serverpractical.dll
